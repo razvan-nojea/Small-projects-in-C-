@@ -1,0 +1,10 @@
+C:\C#\Cerere\bin\Debug\Cerere.exe.config
+C:\C#\Cerere\bin\Debug\Cerere.exe
+C:\C#\Cerere\bin\Debug\Cerere.pdb
+C:\C#\Cerere\obj\Debug\Cerere.csproj.AssemblyReference.cache
+C:\C#\Cerere\obj\Debug\Cerere.Form1.resources
+C:\C#\Cerere\obj\Debug\Cerere.Properties.Resources.resources
+C:\C#\Cerere\obj\Debug\Cerere.csproj.GenerateResource.cache
+C:\C#\Cerere\obj\Debug\Cerere.csproj.CoreCompileInputs.cache
+C:\C#\Cerere\obj\Debug\Cerere.exe
+C:\C#\Cerere\obj\Debug\Cerere.pdb

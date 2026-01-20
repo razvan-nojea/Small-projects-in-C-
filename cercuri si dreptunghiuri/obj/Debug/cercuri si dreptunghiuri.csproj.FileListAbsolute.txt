@@ -1,0 +1,10 @@
+D:\C#\cercuri si dreptunghiuri\bin\Debug\cercuri si dreptunghiuri.exe.config
+D:\C#\cercuri si dreptunghiuri\bin\Debug\cercuri si dreptunghiuri.exe
+D:\C#\cercuri si dreptunghiuri\bin\Debug\cercuri si dreptunghiuri.pdb
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri si dreptunghiuri.csproj.AssemblyReference.cache
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri_si_dreptunghiuri.Main.resources
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri_si_dreptunghiuri.Properties.Resources.resources
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri si dreptunghiuri.csproj.GenerateResource.cache
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri si dreptunghiuri.csproj.CoreCompileInputs.cache
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri si dreptunghiuri.exe
+D:\C#\cercuri si dreptunghiuri\obj\Debug\cercuri si dreptunghiuri.pdb
