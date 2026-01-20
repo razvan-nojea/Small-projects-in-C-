@@ -1,0 +1,14 @@
+D:\C#\RGB\RGB\bin\Debug\RGB.exe.config
+D:\C#\RGB\RGB\bin\Debug\RGB.exe
+D:\C#\RGB\RGB\bin\Debug\RGB.pdb
+D:\C#\RGB\RGB\obj\Debug\RGB.csproj.AssemblyReference.cache
+D:\C#\RGB\RGB\obj\Debug\RGB.Browser.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.LogIn.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.SavedColors.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.Start.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.Properties.Resources.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.SignUp.resources
+D:\C#\RGB\RGB\obj\Debug\RGB.csproj.GenerateResource.cache
+D:\C#\RGB\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
+D:\C#\RGB\RGB\obj\Debug\RGB.exe
+D:\C#\RGB\RGB\obj\Debug\RGB.pdb
