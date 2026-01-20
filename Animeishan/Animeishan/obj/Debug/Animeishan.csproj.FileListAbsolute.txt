@@ -1,0 +1,10 @@
+D:\C#\Animeishan\Animeishan\bin\Debug\Animeishan.exe.config
+D:\C#\Animeishan\Animeishan\bin\Debug\Animeishan.exe
+D:\C#\Animeishan\Animeishan\bin\Debug\Animeishan.pdb
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.csproj.AssemblyReference.cache
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.Form1.resources
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.Properties.Resources.resources
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.csproj.GenerateResource.cache
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.csproj.CoreCompileInputs.cache
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.exe
+D:\C#\Animeishan\Animeishan\obj\Debug\Animeishan.pdb

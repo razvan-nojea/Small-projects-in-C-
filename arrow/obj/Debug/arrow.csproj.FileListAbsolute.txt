@@ -1,0 +1,10 @@
+C:\C#\arrow\bin\Debug\arrow.exe.config
+C:\C#\arrow\bin\Debug\arrow.exe
+C:\C#\arrow\bin\Debug\arrow.pdb
+C:\C#\arrow\obj\Debug\arrow.csproj.AssemblyReference.cache
+C:\C#\arrow\obj\Debug\arrow.Form1.resources
+C:\C#\arrow\obj\Debug\arrow.Properties.Resources.resources
+C:\C#\arrow\obj\Debug\arrow.csproj.GenerateResource.cache
+C:\C#\arrow\obj\Debug\arrow.csproj.CoreCompileInputs.cache
+C:\C#\arrow\obj\Debug\arrow.exe
+C:\C#\arrow\obj\Debug\arrow.pdb

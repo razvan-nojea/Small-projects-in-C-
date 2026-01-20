@@ -1,0 +1,10 @@
+C:\C#\Blocks\bin\Debug\Blocks.exe.config
+C:\C#\Blocks\bin\Debug\Blocks.exe
+C:\C#\Blocks\bin\Debug\Blocks.pdb
+C:\C#\Blocks\obj\Debug\Blocks.csproj.AssemblyReference.cache
+C:\C#\Blocks\obj\Debug\Blocks.Form1.resources
+C:\C#\Blocks\obj\Debug\Blocks.Properties.Resources.resources
+C:\C#\Blocks\obj\Debug\Blocks.csproj.GenerateResource.cache
+C:\C#\Blocks\obj\Debug\Blocks.csproj.CoreCompileInputs.cache
+C:\C#\Blocks\obj\Debug\Blocks.exe
+C:\C#\Blocks\obj\Debug\Blocks.pdb
