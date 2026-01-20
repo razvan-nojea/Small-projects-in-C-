@@ -1,0 +1,12 @@
+C:\C#\Joc\bin\Debug\Joc.exe.config
+C:\C#\Joc\bin\Debug\Joc.exe
+C:\C#\Joc\bin\Debug\Joc.pdb
+C:\C#\Joc\obj\Debug\Joc.csproj.AssemblyReference.cache
+C:\C#\Joc\obj\Debug\Joc.Start.resources
+C:\C#\Joc\obj\Debug\Joc.Lvl1.resources
+C:\C#\Joc\obj\Debug\Joc.Lvl2.resources
+C:\C#\Joc\obj\Debug\Joc.Properties.Resources.resources
+C:\C#\Joc\obj\Debug\Joc.csproj.GenerateResource.cache
+C:\C#\Joc\obj\Debug\Joc.csproj.CoreCompileInputs.cache
+C:\C#\Joc\obj\Debug\Joc.exe
+C:\C#\Joc\obj\Debug\Joc.pdb

@@ -1,0 +1,12 @@
+D:\C#\Guess_The_Number\bin\Debug\Guess_The_Number.exe.config
+D:\C#\Guess_The_Number\bin\Debug\Guess_The_Number.exe
+D:\C#\Guess_The_Number\bin\Debug\Guess_The_Number.pdb
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.csproj.AssemblyReference.cache
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.Form1.resources
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.Form2.resources
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.Form3.resources
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.Properties.Resources.resources
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.csproj.GenerateResource.cache
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.csproj.CoreCompileInputs.cache
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.exe
+D:\C#\Guess_The_Number\obj\Debug\Guess_The_Number.pdb
