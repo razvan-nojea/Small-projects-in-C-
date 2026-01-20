@@ -1,0 +1,13 @@
+D:\C#\Guess_the_Country\bin\Debug\Guess_the_Country.exe.config
+D:\C#\Guess_the_Country\bin\Debug\Guess_the_Country.exe
+D:\C#\Guess_the_Country\bin\Debug\Guess_the_Country.pdb
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.csproj.AssemblyReference.cache
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.startMenu.resources
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.Properties.Resources.resources
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.csproj.GenerateResource.cache
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.csproj.CoreCompileInputs.cache
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.exe
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.pdb
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.loadingScreen.resources
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.game.resources
+D:\C#\Guess_the_Country\obj\Debug\Guess_the_Country.end.resources
