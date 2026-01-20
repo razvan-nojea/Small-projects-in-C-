@@ -1,0 +1,12 @@
+C:\C#\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+C:\C#\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+C:\C#\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.AssemblyReference.cache
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.Domenii.resources
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.Start.resources
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.cache
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+C:\C#\Spanzuratoarea\obj\Debug\Spanzuratoarea.Joc.resources

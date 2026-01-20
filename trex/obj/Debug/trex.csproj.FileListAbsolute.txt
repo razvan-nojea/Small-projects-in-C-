@@ -1,0 +1,10 @@
+C:\C#\trex\bin\Debug\trex.exe.config
+C:\C#\trex\bin\Debug\trex.exe
+C:\C#\trex\bin\Debug\trex.pdb
+C:\C#\trex\obj\Debug\trex.csproj.AssemblyReference.cache
+C:\C#\trex\obj\Debug\trex.Form1.resources
+C:\C#\trex\obj\Debug\trex.Properties.Resources.resources
+C:\C#\trex\obj\Debug\trex.csproj.GenerateResource.cache
+C:\C#\trex\obj\Debug\trex.csproj.CoreCompileInputs.cache
+C:\C#\trex\obj\Debug\trex.exe
+C:\C#\trex\obj\Debug\trex.pdb
