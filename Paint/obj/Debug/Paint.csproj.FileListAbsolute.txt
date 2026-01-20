@@ -1,0 +1,11 @@
+C:\C#\Paint\bin\Debug\Paint.exe.config
+C:\C#\Paint\bin\Debug\Paint.exe
+C:\C#\Paint\bin\Debug\Paint.pdb
+C:\C#\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\C#\Paint\obj\Debug\Paint.Form1.resources
+C:\C#\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\C#\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\C#\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\C#\Paint\obj\Debug\Paint.exe
+C:\C#\Paint\obj\Debug\Paint.pdb
+C:\C#\Paint\obj\Debug\Paint.Library.resources

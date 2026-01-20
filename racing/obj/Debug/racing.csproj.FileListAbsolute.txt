@@ -1,0 +1,10 @@
+D:\C#\racing\bin\Debug\racing.exe.config
+D:\C#\racing\bin\Debug\racing.exe
+D:\C#\racing\bin\Debug\racing.pdb
+D:\C#\racing\obj\Debug\racing.csproj.AssemblyReference.cache
+D:\C#\racing\obj\Debug\racing.Form1.resources
+D:\C#\racing\obj\Debug\racing.Properties.Resources.resources
+D:\C#\racing\obj\Debug\racing.csproj.GenerateResource.cache
+D:\C#\racing\obj\Debug\racing.csproj.CoreCompileInputs.cache
+D:\C#\racing\obj\Debug\racing.exe
+D:\C#\racing\obj\Debug\racing.pdb
